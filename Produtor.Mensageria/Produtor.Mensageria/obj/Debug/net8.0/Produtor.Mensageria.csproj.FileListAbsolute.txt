@@ -1,0 +1,17 @@
+D:\Produtor.Mensageria\Produtor.Mensageria\bin\Debug\net8.0\Produtor.Mensageria.exe
+D:\Produtor.Mensageria\Produtor.Mensageria\bin\Debug\net8.0\Produtor.Mensageria.deps.json
+D:\Produtor.Mensageria\Produtor.Mensageria\bin\Debug\net8.0\Produtor.Mensageria.runtimeconfig.json
+D:\Produtor.Mensageria\Produtor.Mensageria\bin\Debug\net8.0\Produtor.Mensageria.dll
+D:\Produtor.Mensageria\Produtor.Mensageria\bin\Debug\net8.0\Produtor.Mensageria.pdb
+D:\Produtor.Mensageria\Produtor.Mensageria\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\Produtor.Mensageria\Produtor.Mensageria\obj\Debug\net8.0\Produtor.Mensageria.csproj.AssemblyReference.cache
+D:\Produtor.Mensageria\Produtor.Mensageria\obj\Debug\net8.0\Produtor.Mensageria.GeneratedMSBuildEditorConfig.editorconfig
+D:\Produtor.Mensageria\Produtor.Mensageria\obj\Debug\net8.0\Produtor.Mensageria.AssemblyInfoInputs.cache
+D:\Produtor.Mensageria\Produtor.Mensageria\obj\Debug\net8.0\Produtor.Mensageria.AssemblyInfo.cs
+D:\Produtor.Mensageria\Produtor.Mensageria\obj\Debug\net8.0\Produtor.Mensageria.csproj.CoreCompileInputs.cache
+D:\Produtor.Mensageria\Produtor.Mensageria\obj\Debug\net8.0\Produtor.8694BFB0.Up2Date
+D:\Produtor.Mensageria\Produtor.Mensageria\obj\Debug\net8.0\Produtor.Mensageria.dll
+D:\Produtor.Mensageria\Produtor.Mensageria\obj\Debug\net8.0\refint\Produtor.Mensageria.dll
+D:\Produtor.Mensageria\Produtor.Mensageria\obj\Debug\net8.0\Produtor.Mensageria.pdb
+D:\Produtor.Mensageria\Produtor.Mensageria\obj\Debug\net8.0\Produtor.Mensageria.genruntimeconfig.cache
+D:\Produtor.Mensageria\Produtor.Mensageria\obj\Debug\net8.0\ref\Produtor.Mensageria.dll
